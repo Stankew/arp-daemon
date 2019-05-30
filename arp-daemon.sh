@@ -1,3 +1,4 @@
+#!/bin/bash
 while true
 do
   cat /proc/net/arp | grep eth0
